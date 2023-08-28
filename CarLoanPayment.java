@@ -1,7 +1,7 @@
 public class CarLoanPayment
 {
     /*applying for a carloan of 10000, down payment is 2000, interest rate is 5% and for a period of 3 years
-    conditions included: if loan tenure of interest is less than or equal to 0 - that means it a possible scam and invalid request
+    conditions included: if loan tenure or interest is less than or equal to 0 - that means it a possible scam and invalid request
     if the down payment amount is more than the total cost of the car, then the car can be paid in full
     */
     public static void main(String[] args)
